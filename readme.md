@@ -23,6 +23,28 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 - Manfaatkan zig build untuk menciptakan lingkungan pengembangan yang konsisten di semua platform.
 - Tambahkan unit kompilasi Zig ke proyek C/C++; LTO lintas bahasa diaktifkan secara default.
 
+---
+
+<p align="center">
+    <a href="https://github.com/azkadev">
+        <img src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png" alt="Specta"
+            width="312"
+            height="312">
+    </a>
+    <br>
+    <a href="https://youtube.com/c/galaxeus">
+        <img
+            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
+            alt="galaxeus"
+            width="350"
+            height="80"
+        >
+    </a>
+    <br>
+    <b>Author Docs Azkadev 🔥</b>
+    <br>
+</p>
+ 
 
 ### Support
 > Tolong beri saya dukungan dengan cara follow up semua social media saya / donate di github ya
@@ -44,6 +66,7 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 3. Low Level Programming
    
    Low Level Programming adalah
+---
 
 ### Basic command
 Bais command yang biasa di gunakan dalam zig
