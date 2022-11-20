@@ -23,6 +23,14 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 - Tambahkan unit kompilasi Zig ke proyek C/C++; LTO lintas bahasa diaktifkan secara default.
 
 
+### Support
+> Tolong beri saya dukungan dengan cara follow up semua social media saya / donate di github ya
+
+### Social Media Me
+
+1. [Youtube](https://youtube.com/@azkadev)
+2. [Telegram](https://t.me/azkadev)
+
 ### Basic command
 Bais command yang biasa di gunakan dalam zig
 1. Compile to shared library
