@@ -48,19 +48,25 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 ### Basic command
 Bais command yang biasa di gunakan dalam zig
 1. Compile to shared library
+   
     Mencompile source code zig ke shared library jadi anda bisa menggunakan source code yang sudah di buat di semua bahasa program yang support ffi
+
     ```bash
     zig build-lib ./src/main.zig -target x86_64-linux -dynamic --name azka
     ```
 
 2. compile to exe
+   
     Mengcompile source code ke executable sehingga anda bisa menjalankan program tanpa install zig / package
+    
     ```bash
     zig build-exe ./src/main.zig -target x86_64-linux
     ```
 
 3. run program
+   
     Menjalankan program zig
+
     ```bash
     zig run ./src/01_hello_world.zig
     ```
