@@ -22,19 +22,23 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 - Manfaatkan zig build untuk menciptakan lingkungan pengembangan yang konsisten di semua platform.
 - Tambahkan unit kompilasi Zig ke proyek C/C++; LTO lintas bahasa diaktifkan secara default.
 
+
 ### Basic command
-## Compile to shared library
-```bash
-zig build-lib ./src/main.zig -target x86_64-linux -dynamic --name azka
-```
+Bais command yang biasa di gunakan dalam zig
+1. Compile to shared library
+    Mencompile source code zig ke shared library jadi anda bisa menggunakan source code yang sudah di buat di semua bahasa program yang support ffi
+    ```bash
+    zig build-lib ./src/main.zig -target x86_64-linux -dynamic --name azka
+    ```
 
-## compile to exe
-```bash
-zig build-exe ./src/main.zig -target x86_64-linux
-```
+2. compile to exe
+    Mengcompile source code ke executable sehingga anda bisa menjalankan program tanpa install zig / package
+    ```bash
+    zig build-exe ./src/main.zig -target x86_64-linux
+    ```
 
-## run program
-
-```bash
-zig run ./src/01_hello_world.zig
-```
+3. run program
+    Menjalankan program zig
+    ```bash
+    zig run ./src/01_hello_world.zig
+    ```
