@@ -1,12 +1,13 @@
-# Zig Lang Cheat Sheet
+# Zig Cheat Sheet
 
+
+### basic
 ## Compile to shared library
 ```bash
 zig build-lib ./src/main.zig -target x86_64-linux -dynamic --name azka
 ```
 
 ## compile to exe
-
 ```bash
 zig build-exe ./src/main.zig -target x86_64-linux
 ```
