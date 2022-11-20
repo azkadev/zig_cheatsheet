@@ -1,4 +1,5 @@
-# Zig Cheat Sheet
+![ZIG](https://ziglang.org/img/zig-logo-dynamic.svg)
+
 Zig adalah bahasa pemrograman dan toolchain tujuan umum untuk memelihara perangkat lunak yang kuat, optimal, dan dapat digunakan kembali.
 
 ⚡ Bahasa Sederhana
