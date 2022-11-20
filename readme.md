@@ -1,5 +1,5 @@
 # Zig Cheat Sheet
-
+Zig adalah bahasa pemrograman dan toolchain tujuan umum untuk memelihara perangkat lunak yang kuat, optimal, dan dapat digunakan kembali.
 
 ### basic
 ## Compile to shared library
