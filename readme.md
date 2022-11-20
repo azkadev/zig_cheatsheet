@@ -11,3 +11,9 @@ zig build-lib ./src/main.zig -target x86_64-linux -dynamic --name azka
 ```bash
 zig build-exe ./src/main.zig -target x86_64-linux
 ```
+
+## run program
+
+```bash
+zig run ./src/01_hello_world.zig
+```
