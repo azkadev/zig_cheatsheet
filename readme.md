@@ -31,6 +31,14 @@ Tingkatkan basis kode C/C++/Zig Anda secara bertahap.
 1. [Youtube](https://youtube.com/@azkadev)
 2. [Telegram](https://t.me/azkadev)
 
+### Alasan Saya Belajar Bahasa code Zig
+1. Cross platform compile
+   Cross platform compile di zig tidak terlalu ribet di banding bahasa code sebelah anda hanya perlu menambahkan `-target arch-platform` itu sudah bisa di compile di platform tersebut
+2. Lebih Cepat Dari c
+   Bahasa code Zig di claim lebih cepat dari bahasa code C.
+3. Low Level Programming
+   Low Level Programming adalah
+
 ### Basic command
 Bais command yang biasa di gunakan dalam zig
 1. Compile to shared library
